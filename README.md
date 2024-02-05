@@ -8,10 +8,10 @@
 
 Для приобретения бота:
 
-1. написать мне в TG: [@archiewh1te](https://t.me/archiewh1te)
-2. купить на Boosty: [Aiogram Support Bot Boosty](https://boosty.to/archiewh1te/posts/006ce735-3645-4132-b908-2e2762e80102)
+1. Написать мне в TG: [@archiewh1te](https://t.me/archiewh1te)
+2. Купить на Boosty: [Aiogram Support Bot Boosty](https://boosty.to/archiewh1te/posts/006ce735-3645-4132-b908-2e2762e80102)
 
-
+**⚠️При покупке вы получаете бесплатную установку и настройку на вашем сервере.⚠️**
 
 [![PyPI](https://img.shields.io/pypi/v/aiogram/2.25.2?label=aiogram&logo=telegram&logoColor=aiogram)](https://pypi.org/project/aiogram/2.25.2)
 ![PyPI](https://img.shields.io/pypi/v/aiofiles?label=aiofiles&logo=aiofiles&logoColor=aiofiles)
